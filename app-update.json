@@ -1,7 +1,7 @@
 {
-  "version": "1.1.165",
-  "versionCode": 165,
-  "apkUrl": "https://github.com/lousoparaelmac6-code/tymdulce-releases/releases/download/apk-165/app-debug.apk",
-  "sha256": "722b9143a088d871ea0e11e0c35e207cca2471a11cecd7475a605b31299a7a95",
+  "version": "1.1.169",
+  "versionCode": 169,
+  "apkUrl": "https://github.com/lousoparaelmac6-code/tymdulce-releases/releases/download/apk-169/app-debug.apk",
+  "sha256": "d3ebafb584fa8cf0d5b623fa82c5a7f2f79a45508c2f3b28b5de4ed1be306709",
   "releaseNotes": "Actualización de TyM Dulce para Android."
 }
